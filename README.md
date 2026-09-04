@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="[DIRECT-IMAGE-URL-HERE]([https://github.com/RelictusMods/.github/blob/main/Relictus%20Final%20AI.png](https://github.com/RelictusMods/.github/blob/main/Relictus%20Final%20AI.png?raw=true)" alt="RELICTUS - Preserve the Work" width="900">
+  <img src="https://raw.githubusercontent.com/RelictusMods/.github/refs/heads/main/Relictus%20Final%20-%20Trans.png" alt="RELICTUS - Preserve the Work" width="600">
 </p>
 
 **Preserving and resurrecting PC mods that are abandoned, retired, discontinued, unsupported, or no longer maintained.**
