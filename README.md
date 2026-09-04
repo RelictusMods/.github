@@ -1,8 +1,8 @@
 <div align="center">
 
-# R E L I C T U S
-
-### PRESERVE THE WORK
+<p align="center">
+  <img src="[DIRECT-IMAGE-URL-HERE]([https://github.com/RelictusMods/.github/blob/main/Relictus%20Final%20AI.png](https://github.com/RelictusMods/.github/blob/main/Relictus%20Final%20AI.png?raw=true)" alt="RELICTUS - Preserve the Work" width="900">
+</p>
 
 **Preserving and resurrecting PC mods that are abandoned, retired, discontinued, unsupported, or no longer maintained.**
 
